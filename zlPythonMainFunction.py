@@ -7,7 +7,7 @@ FileName: zlBatchRenameFile.py
 Author: 张龙
 Version : 1.0
 Date: 2018-10-07
-Description: 张龙个人的批量重命名函数库
+Description: python主函数main().
 Function List: # 主要函数及其功能
 1. -------
 History: // 历史修改记录
