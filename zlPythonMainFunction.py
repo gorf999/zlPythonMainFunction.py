@@ -19,6 +19,7 @@ Usage:
 History: 
     <version >        <Date>        <author>            <desc>
        1.0           2018/10/07       张龙          build this moudle
+Other:
 '''
 
 
@@ -30,8 +31,9 @@ def main():
     Input Parameters: 无
     Output Parameters: 无
     Return Value: 无
+    Output Files:
     Depend On:无
-    Others:
+    Other:
     Revision Date: 2018/09/24
     '''
     pass
