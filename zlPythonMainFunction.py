@@ -26,16 +26,18 @@ Other:
 def main():
     '''
     Number: 0000
-    Function name: 主函数main().
+    Function name: main().
+    Revision Date: 2018/09/24    
     Description:程序启动主函数。
     Input Parameters: 无
+    Input Files:
     Output Parameters: 无
+    Output Files: No.    
     Return Value: 无
-    Output Files:
     Depend On:无
     Other:
-    Revision Date: 2018/09/24
     '''
+    
     pass
 
 if __name__=='__main__':
